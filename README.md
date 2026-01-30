@@ -11,6 +11,8 @@ Detect operational inefficiencies
 
 Analyse demand trends over time
 
+The project mirrors the type of analysis used in cost control, purchasing, finance, and data analyst roles.
+
 DATA PREPARATION
 
 Exported approved purchase invoices (2025) from the stock control system into Excel
