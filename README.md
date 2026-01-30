@@ -59,7 +59,7 @@ The dashboard provides a clear view of purchasing behaviour across time, supplie
 
 KEY INSIGHTS
 
-Food purchases significantly outweigh beverage purchases, indicating inefficiencies in beverage invoice approval and stock control processes
+Food purchases significantly outweigh beverage purchases, indicating inefficiencies in beverage invoice approval
 
 Top 3 suppliers by total spend are meat, vegetables, and dairy suppliers
 
